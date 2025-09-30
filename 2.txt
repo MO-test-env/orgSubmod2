@@ -3,5 +3,5 @@ merge to revert
 2
 
 b4
-b3
+b3 b6
 create conflicts and see if auto resolve works 
