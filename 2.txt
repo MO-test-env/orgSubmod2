@@ -1,6 +1,6 @@
 reproduce 510
 merge to revert
-2
+2 b5
 
 b4
 b3 b6
