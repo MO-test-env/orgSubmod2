@@ -6,3 +6,4 @@ b4
 b3 b6
 create conflicts and see if auto resolve works 
 c2
+c5
