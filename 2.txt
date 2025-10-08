@@ -6,3 +6,4 @@ e3
 a2
 
 create conflicts and see if auto resolve works 
+cdc-4
