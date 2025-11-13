@@ -6,12 +6,10 @@ e3
 0000
 
 create conflicts and see if auto resolve works 
-cdc-4
+
 z1
 
-CDC-4321 Demo 1 
 
-CDC - 4322 DEMO 2 
 
 
 i7
@@ -31,7 +29,5 @@ i3
 
 
 
-cdc-1234_2
 
 
-another one
